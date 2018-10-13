@@ -9,6 +9,10 @@ package hello;
  *
  * @author ahmed
  */
-public class test {
+public class test 
+{
+        public test()
+{
+}
     
 }
